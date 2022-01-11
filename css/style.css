@@ -8,7 +8,7 @@ body {
     align-items: center;
     justify-content: center;
     position: absolute;
-    background-color:black
+    background-color: #fff;
 }
 
 input {
@@ -19,7 +19,13 @@ input {
     font-weight: 'bebas Neue', cursive;
     border-radius: 25%;
 }
+.display{
+ 
+}
 
+.Calc_total{
+    background-color: rgb(70, 52, 52)
+}
 .num {
     width: 64px;
     height: 67px;
